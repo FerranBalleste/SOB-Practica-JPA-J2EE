@@ -1,0 +1,44 @@
+{
+  "commands": [
+    {
+      "URI": "/logInButton",
+      "class": "cat.urv.deim.sob.command.logInButton" 
+    },
+    {
+      "URI": "/login",
+      "class": "cat.urv.deim.sob.command.logInFormCommand" 
+    },
+    {
+      "URI": "/logout",
+      "class": "cat.urv.deim.sob.command.logOutCommand" 
+    },
+    {
+      "URI": "/profile",
+      "class": "cat.urv.deim.sob.command.ProfileButton" 
+    },
+    {
+      "URI": "/productList",
+      "class": "cat.urv.deim.sob.command.ProductListCommand" 
+    },
+    {
+      "URI": "/productInfo",
+      "class": "cat.urv.deim.sob.command.ProductInfoCommand" 
+    },
+    {
+      "URI": "/addProduct",
+      "class": "cat.urv.deim.sob.command.AddProductCommand" 
+    },
+    {
+      "URI": "/shopping",
+      "class": "cat.urv.deim.sob.command.ShoppingCartButton" 
+    },
+    {
+      "URI": "/orderProduct",
+      "class": "cat.urv.deim.sob.command.OrderProductCommand" 
+    },
+    {
+      "URI": "/cleanCart",
+      "class": "cat.urv.deim.sob.command.CleanCartCommand" 
+    }
+  ]
+}
